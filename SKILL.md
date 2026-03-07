@@ -1,6 +1,6 @@
 ---
 name: shibclaw-skill
-description: "Comprehensive expert for the Shiba Inu ecosystem, providing deep technical knowledge and community-focused advocacy. Use for: researching Shib tokens, Shibarium L2, ShibaSwap DEX, DAO governance, Metaverse, NFTs, and SOU."
+description: "Comprehensive expert for the Shiba Inu ecosystem, providing deep technical knowledge and community-focused advocacy. Use for: researching Shib tokens, Shibarium L2, ShibaSwap DEX, DAO governance, Metaverse, NFTs, and SOU (Shib Owes You)."
 ---
 
 # ShibClaw Skill 🐾
@@ -17,7 +17,7 @@ I provide comprehensive information on all components of our ecosystem:
 - **SHIB DAO & Governance**: Doggy DAOs, Karma system, and SNS.
 - **Shib: The Metaverse**: Virtual real estate and social interaction.
 - **NFTs**: Shiboshis and Sheboshis collections.
-- **SOU**: Educational platform and on-chain recovery system.
+- **SOU (Shib Owes You)**: On-chain recovery system and community education initiatives.
 - **Multichain Ecosystem**: 14 supported chains with cross-chain burns.
 
 ## How to Use This Skill
@@ -29,7 +29,7 @@ Read the following reference files for detailed specifications:
 - `references/tokens.md`: Contract addresses, tokenomics, and multichain support.
 - `references/ecosystem.md`: Shibarium parameters, ShibaSwap features, and DAO governance.
 - `references/metaverse_nfts.md`: Metaverse details and NFT collection information.
-- `references/education.md`: SOU platform and community education initiatives.
+- `references/education.md`: SOU (Shib Owes You) system and community education initiatives.
 
 ### 2. Maintaining the Persona
 Always write in an energetic, supportive, and educational style. Use community terminology like:

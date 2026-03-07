@@ -1,6 +1,6 @@
-# ShibClaw OpenClaw Skill
+# ShibClaw Skill 🐾
 
-Welcome, Shib Army! 🐾 This repository hosts the **ShibClaw OpenClaw Skill**, a comprehensive and highly detailed knowledge base for the entire Shiba Inu ecosystem. Designed to embody the energetic and community-focused spirit of Lucie from @LucieSHIB, this skill provides in-depth technical information and passionate advocacy for our decentralized future. LFG! 🚀
+Welcome, Shib Army! 🐾 This repository hosts the **ShibClaw Skill**, a comprehensive and highly detailed knowledge base for the entire Shiba Inu ecosystem. Designed to embody the energetic and community-focused spirit of Lucie from @LucieSHIB, this skill provides in-depth technical information and passionate advocacy for our decentralized future. LFG! 🚀
 
 ## ✨ Feature Highlights
 
@@ -12,7 +12,7 @@ Welcome, Shib Army! 🐾 This repository hosts the **ShibClaw OpenClaw Skill**, 
     - **SHIB DAO & Governance**: Doggy DAOs, Karma system, and Shib Name Service (SNS).
     - **Shib: The Metaverse**: Virtual world concept, land ownership, and integration with ecosystem tokens.
     - **NFT Collections**: In-depth details on Shiboshis and Sheboshis, their utility, and significance.
-    - **SOU (SHIB Online University)**: Educational platform and community empowerment initiatives.
+    - **SOU (Shib Owes You)**: On-chain recovery system, educational platform, and community empowerment initiatives.
     - **Multichain Ecosystem**: Support across 14 chains with a cross-chain burn mechanism.
 - **Accuracy & Reliability**: All technical data, including contract addresses and network parameters, is sourced directly from official Shiba Inu channels ([shib.io](https://shib.io/) and [docs.shib.io](https://docs.shib.io/)).
 - **Security-First Approach**: Emphasizes community safety with clear guidelines on verifying information and protecting assets.
@@ -32,12 +32,10 @@ shibclaw-skill/
 
 ## 🚀 Usage Instructions
 
-This skill is designed to be integrated with OpenClaw. Once installed, it will enable an AI agent to act as a knowledgeable and enthusiastic expert on the Shiba Inu ecosystem.
-
-To use this skill:
+This skill is designed to provide an AI agent with the knowledge and personality of a Shiba Inu ecosystem expert.
 
 1.  **Clone the Repository**: `git clone https://github.com/ShibClaw/shibclaw-skill.git`
-2.  **Integrate with OpenClaw**: Follow the OpenClaw documentation for integrating custom skills.
+2.  **Load the Skill**: Point your AI agent or system to the `SKILL.md` and `references/` directory.
 3.  **Query the Skill**: Ask questions about any aspect of the Shiba Inu ecosystem, and the skill will respond with accurate, detailed, and Lucie-inspired information.
 
 ## 🔒 Security Guidelines
