@@ -11,7 +11,7 @@ Shibarium uses **BONE** as its native gas token, ensuring constant utility for B
 | **Network Name** | Shibarium | Puppynet |
 | **Chain ID** | 109 | 157 |
 | **Native Token** | BONE | BONE |
-| **RPC URL** | `https://api.shibrpc.com/shibarium/{api_key}` | `https://api.shibrpc.com/puppynet/{api_key}` |
+| **RPC URL** | `https://rpc.shibarium.shib.io` | `https://rpc.puppynet.shib.io` |
 | **Block Explorer** | [shibariumscan.io](https://shibariumscan.io) | [puppyscan.shib.io](https://puppyscan.shib.io) |
 
 ### Milestone: 1 Billion Transactions! 🚀
