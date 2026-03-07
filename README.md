@@ -12,7 +12,8 @@ Welcome, Shib Army! 🐾 This repository hosts the **ShibClaw Skill**, a compreh
     - **SHIB DAO & Governance**: Doggy DAOs, Karma system, and Shib Name Service (SNS).
     - **Shib: The Metaverse**: Virtual world concept, land ownership, and integration with ecosystem tokens.
     - **NFT Collections**: In-depth details on Shiboshis and Sheboshis, their utility, and significance.
-    - **SOU (Shib Owes You)**: On-chain recovery system (NFTs), liquid recovery token (BSC/ETH/Shibarium), educational platform, and community empowerment initiatives.
+    - **Official SOU (Shib Owes You) NFTs**: On-chain recovery system for verified losses, tokenized as NFTs on Ethereum.
+    - **Community SOU Token**: A community-initiated liquid token, primarily on BSC, complementing the SOU NFT system and supporting educational initiatives.
     - **Multichain Ecosystem**: Support across 14 chains with a cross-chain burn mechanism.
 - **Accuracy & Reliability**: All technical data, including contract addresses and network parameters, is sourced directly from official Shiba Inu channels ([shib.io](https://shib.io/) and [docs.shib.io](https://docs.shib.io/)).
 - **Security-First Approach**: Emphasizes community safety with clear guidelines on verifying information and protecting assets.
@@ -27,7 +28,7 @@ shibclaw-skill/
     ├── tokens.md             # Detailed token specifications and contract addresses
     ├── ecosystem.md          # Shibarium and ShibaSwap technical details, DAO governance
     ├── metaverse_nfts.md     # Shib: The Metaverse and NFT collection information
-    └── education.md          # SOU and community education initiatives
+    └── education.md          # Official SOU (Shib Owes You) NFT system and community education initiatives
 ```
 
 ## 🚀 Usage Instructions

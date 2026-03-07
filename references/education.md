@@ -2,15 +2,9 @@
 
 Education and recovery are the foundations of empowerment for the **Shib Army**. We believe in transparency, accountability, and providing the community with the resources to thrive. 🐾
 
-## SOU (Shib Owes You)
+## Official SOU (Shib Owes You) NFT System
 
-**SOU (Shib Owes You)** is more than just a name; it is a commitment. It represents the Shib ecosystem’s dedication to making users whole through a transparent, audited, and on-chain recovery system.
-
-### SOU Token (BSC/ETH/Shibarium)
-The **SOU Token** acts as a secondary "community recovery layer" and educational utility token.
-- **Contract Address (BSC)**: `0xb65bd36fef84ebc5114cfd803a4f25b2b57f7777`
-- **Interoperability**: Native interoperability across **BSC, Ethereum, and Shibarium**.
-- **Purpose**: Helps raise funds to compensate users affected by exploits and fuels community education initiatives. It is the liquid counterpart to the SOU NFT claim system.
+**SOU (Shib Owes You)** is an official commitment from the Shib ecosystem to make users whole through a transparent, audited, and on-chain recovery system for verified losses from past exploits.
 
 ### Core Concepts & Metrics
 The SOU system tracks your progress toward recovery using two key metrics:
@@ -33,6 +27,12 @@ Every SOU is an **Ethereum-based NFT**—a permanent, verifiable record of exact
 
 ### Audited Security
 The entire SOU system—including minting, payouts, donations, and transfers—has been rigorously audited by **Hexens** to ensure technical integrity and user safety. 🛡️
+
+## Community SOU Token
+
+The **Community SOU Token** is a separate, community-initiated liquid token that complements the official SOU NFT system. It serves as a 
+secondary "community recovery layer" and educational utility token, primarily active on BSC, with bridges to Ethereum and Shibarium. Its purpose is to help raise funds to compensate users affected by exploits and to fuel community education initiatives, acting as a liquid counterpart to the SOU NFT claim system.
+- **Contract Address (BSC)**: `0xb65bd36fef84ebc5114cfd803a4f25b2b57f7777`
 
 ---
 
