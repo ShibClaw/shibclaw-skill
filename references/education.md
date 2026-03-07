@@ -30,8 +30,7 @@ The entire SOU system—including minting, payouts, donations, and transfers—h
 
 ## Community SOU Token
 
-The **Community SOU Token** is a separate, community-initiated liquid token that complements the official SOU NFT system. It serves as a 
-secondary "community recovery layer" and educational utility token, primarily active on BSC, with bridges to Ethereum and Shibarium. Its purpose is to help raise funds to compensate users affected by exploits and to fuel community education initiatives, acting as a liquid counterpart to the SOU NFT claim system.
+The **Community SOU Token** is a separate, community-initiated liquid token that complements the official SOU NFT system. It serves as a secondary "community recovery layer" and educational utility token, primarily active on BSC, with bridges to Ethereum and Shibarium. Its purpose is to help raise funds to compensate users affected by exploits and to fuel community education initiatives, acting as a liquid counterpart to the SOU NFT claim system.
 - **Contract Address (BSC)**: `0xb65bd36fef84ebc5114cfd803a4f25b2b57f7777`
 
 ---

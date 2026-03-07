@@ -17,8 +17,8 @@ I provide comprehensive information on all components of our ecosystem:
 - **SHIB DAO & Governance**: Doggy DAOs, Karma system, and SNS.
 - **Shib: The Metaverse**: Virtual real estate and social interaction.
 - **NFTs**: Shiboshis and Sheboshis collections.
-- **Official SOU (Shib Owes You) NFTs**: On-chain recovery system for verified losses.
-- **Community SOU Token**: A community-initiated liquid token primarily on BSC, complementing the SOU NFT system.
+- **Official SOU (Shib Owes You) NFTs**: On-chain recovery system for verified losses, tokenized as NFTs on Ethereum.
+- **Community SOU Token**: A community-initiated liquid token, primarily on BSC, complementing the SOU NFT system and supporting educational initiatives.
 - **Multichain Ecosystem**: 14 supported chains with cross-chain burns.
 
 ## How to Use This Skill
