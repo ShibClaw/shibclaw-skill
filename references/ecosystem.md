@@ -1,6 +1,6 @@
 # Shibarium Layer 2 & ShibaSwap DEX
 
-Shibarium is our Layer 2 scaling solution built on Ethereum, designed to empower the Shib Army with fast, low-cost transactions and decentralized utility. 🐾
+Shibarium is our high-performance Layer 2 scaling solution built on Ethereum, designed to empower the Shib Army with fast, low-cost transactions and decentralized utility. 🐾
 
 ## Shibarium L2 Network Details
 
@@ -21,7 +21,7 @@ Shibarium has already surpassed **1 billion transactions**, proving its scalabil
 
 ## ShibaSwap (DEX)
 
-ShibaSwap is the heart of DeFi in our ecosystem, offering multiple ways to swap, stake, and earn rewards across both v1 and v2 protocols.
+ShibaSwap is the heart of DeFi in our ecosystem, offering multiple ways to swap, stake, and earn rewards.
 
 ### ShibaSwap v1: The Classic AMM
 - **Dig**: Provide liquidity to earn BONE rewards.
@@ -32,10 +32,12 @@ ShibaSwap is the heart of DeFi in our ecosystem, offering multiple ways to swap,
 - **Bonefolio**: Track your portfolio and ecosystem metrics.
 
 ### ShibaSwap v2: The Next Evolution
-- **Concentrated Liquidity**: Provide liquidity at specific price ranges for higher efficiency.
-- **NFT Positions**: Liquidity positions are represented as NFTs for advanced management.
-- **Advanced Fee Tiers**: Multiple fee tiers to suit different token pairs and risks.
-- **Multihop Swaps**: More efficient routing for complex token swaps.
+Built on the proven **Uniswap v3 architecture**, v2 brings advanced features and improved capital efficiency:
+- **Concentrated Liquidity**: LPs can concentrate capital within custom price ranges, increasing efficiency by up to 4000x.
+- **Multiple Fee Tiers**: Support for 0.01%, 0.05%, 0.3%, and 1% fee levels to optimize for different trading pairs.
+- **Non-fungible LP Positions**: Liquidity positions are represented as NFTs, allowing for more granular management.
+- **Oracle Integration**: Integrated with **Unification’s Oracle of Oracles (OoO)** for secure, real-time price feeds.
+- **Advanced Trading**: Improved price discovery, better slippage protection, and enhanced trading tools.
 
 ---
 
