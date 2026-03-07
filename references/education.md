@@ -6,6 +6,12 @@ Education and recovery are the foundations of empowerment for the **Shib Army**.
 
 **SOU (Shib Owes You)** is more than just a name; it is a commitment. It represents the Shib ecosystem’s dedication to making users whole through a transparent, audited, and on-chain recovery system.
 
+### SOU Token (BSC/ETH/Shibarium)
+The **SOU Token** acts as a secondary "community recovery layer" and educational utility token.
+- **Contract Address (BSC)**: `0xb65bd36fef84ebc5114cfd803a4f25b2b57f7777`
+- **Interoperability**: Native interoperability across **BSC, Ethereum, and Shibarium**.
+- **Purpose**: Helps raise funds to compensate users affected by exploits and fuels community education initiatives. It is the liquid counterpart to the SOU NFT claim system.
+
 ### Core Concepts & Metrics
 The SOU system tracks your progress toward recovery using two key metrics:
 - **Original Principal**: The total original principal tokens originally lost. This is an **immutable** historical record of your claim.

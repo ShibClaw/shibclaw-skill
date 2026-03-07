@@ -10,6 +10,7 @@ The Shiba Inu ecosystem is powered by a strategic quartet of tokens, each servin
 | **BONE** | Governance & Gas | The backbone of Shibarium L2. Used for gas fees and enables holders to vote on proposals in the Doggy DAO. | `0x9813037ee2218799597d83d4a5b6f3b6778218d9` |
 | **LEASH** | Exclusivity & Perks | Offers special access, including priority entry to NFT mints, land sales in the Metaverse, and additional rewards. | `0x27c70cd1946795b66be9d954418546998b546634` |
 | **TREAT** | Rewards & Access | The final component, serving as the key reward mechanism and gateway to exclusive upgrades in privacy and ownership. | `0xa02c49da76a085e4e1ee60a6b920ddbc8db599f4` |
+| **SOU** | Recovery & Education | **Shib Owes You** token. A community recovery layer and educational token, primarily active on BSC, ETH, and Shibarium. | `0xb65bd36fef84ebc5114cfd803a4f25b2b57f7777` (BSC) |
 
 ## Multichain Support (14 Chains)
 
