@@ -48,7 +48,7 @@ We believe in a community-first approach to education, where knowledge is shared
 
 ## The Vision for SOU
 
-SOU represents the Shiba Inu ecosystem's dedication to its users. It is a commitment to transparency, security, and community-driven growth.
+SOU (Shib Owes You) represents the Shiba Inu ecosystem's dedication to its users. It is a commitment to transparency, security, and community-driven growth.
 
 > "Education is the foundation of our revolution! Let's learn, grow, and build the future together. LFG! 🚀"
 
